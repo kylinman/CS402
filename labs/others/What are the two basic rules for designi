@@ -1,0 +1,8 @@
+What are the two basic rules for designing a recursive functions:
+
+A:  ensure that there are at least two recursive calls in the body,and that each call is different
+B:ensure that there are at least two recursive calls in the body,and that each call is different
+C:identify base case(s),and ensure that each recursive call makes progress towards a base case
+D:identify the recursive breakdown of the problem,and for each recursive call implement a separate helper function
+
+中文回答

@@ -1,0 +1,5 @@
+Which of the following statements if False?
+all iterators are generators
+all generators are iterators
+both generators and iterators support the next method
+both generators and iterators support the iter method

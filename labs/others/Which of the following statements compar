@@ -1,0 +1,12 @@
+Which of the following statements comparing singly-linked lists to doubly-linked lists is generally true, given two otherwise similar linked list implementations?
+
+each element in a doubly-linked list incurs more memory overhead than each element
+in a singly-linked list
+
+prepending an element to the doubly linked list will have better runtime complexity than
+
+deleting the head of the doubly linked list will have better runtime complexity than the
+same operation on the singly linked list
+
+the doubly-linked list can make use of a sentinel head,while the singly-linked list can
+not

@@ -1,0 +1,12 @@
+Assuming that p and q refer to adjacent nodes (with p preceding q) within a circular doubly-linked list, which of the following swaps the two?
+1.
+p.next,p.prior,q.next,q.prior q.next,q.prior,p.next,p.prior
+2.
+p,q=q,p
+p.next,p.prior q.next,q.prior
+3.
+p.prior.next,q.next.prior p.prior,q.next p.next.prior,q.prior.next
+p.next,q.prior
+4.
+p.prior.next,q.next.prior q,p
+p.next,p.prior,q.next,q.prior q.next,q,p,p.prior
